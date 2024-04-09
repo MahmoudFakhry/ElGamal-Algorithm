@@ -1,1 +1,1 @@
-# ElGamal-Algorithm
+# ElGamal Encryption and Diﬃe–Hellman Key Exchange
